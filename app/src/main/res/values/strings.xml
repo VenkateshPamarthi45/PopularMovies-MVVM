@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies1</string>
+    <string name="overview">Overview :</string>
+    <string name="votes_value">Votes : %d</string>
+    <string name="release_date_value">Release Date : %s</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="extra_movie_key">movie</string>
+    <string name="showing_popular_movies">Showing popular movies</string>
+    <string name="showing_top_rated_movies">Showing top rated movies</string>
+    <string name="movie_image">movie_image</string>
+    <string name="please_check_internet_connection">Please check internet connection</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailers">Trailers</string>
+    <string name="wishlist_icon">wishlist icon</string>
+    <string name="favourite_movies">Favourite Movies</string>
+    <string name="showing_favourite_movies">Showing favourite movies</string>
+    <string name="youtube_base_url">https://www.youtube.com/watch?v=</string>
+    <string name="cover_image">cover image</string>
+    <string name="background_image">background image</string>
+
+</resources>
